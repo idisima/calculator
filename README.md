@@ -1,2 +1,2 @@
 # calculator
-# https://idisima.github.io/calculator/newcal.html
+#https://idisima.github.io/calculator/newcal.html
